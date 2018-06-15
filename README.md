@@ -18,6 +18,6 @@
 状态规格模板——时序图<br>
 
 [点击下载源程序代码](https://github.com/meetquestion/psp/blob/master/Technology.rar)<br>
-[点击下载源程序使用说明书](https://github.com/meetquestion/psp/blob/master/使用说明文档)<br>
+[点击下载源程序使用说明书](https://github.com/meetquestion/psp/blob/master/使用说明文档.docx)<br>
 [点击下载个人软件过程实验报告](https://github.com/meetquestion/psp/blob/master/psp/master/psp个人软件过程.docx)
 
